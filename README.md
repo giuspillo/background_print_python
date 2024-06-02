@@ -5,4 +5,4 @@ It can be useful to: (a) keep track of what happens during code execution and (b
 
 ![Preview](https://raw.githubusercontent.com/giuspillo/background_print_python/main/images/example.png)
 
-Thanks to [this repo](https://github.com/gusye1234/LightGCN-PyTorch) for the idea.
+Thanks to the [LightGCN-PyTorch repo](https://github.com/gusye1234/LightGCN-PyTorch) for the idea.
